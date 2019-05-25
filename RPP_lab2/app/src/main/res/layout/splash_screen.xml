@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activitys.SplashScreenActivity">
+
+    <ImageView
+        android:id="@+id/sneakImg"
+        android:layout_width="420dp"
+        android:layout_height="377dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="40dp"
+        app:srcCompat="@drawable/irr"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="177dp" />
+</RelativeLayout>
