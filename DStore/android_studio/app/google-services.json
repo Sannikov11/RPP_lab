@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "442471110560",
+    "firebase_url": "https://efendicoffee-ac59e.firebaseio.com",
+    "project_id": "efendicoffee-ac59e",
+    "storage_bucket": "efendicoffee-ac59e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442471110560:android:e1b61475d017925c",
+        "android_client_info": {
+          "package_name": "com.shopapp.efendi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442471110560-n2mtnt1e3u2p0pm3oi5qbhh069ukb5lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs14WtOR_dCjjzjYclCJ7Fo6JaTCj4F0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
